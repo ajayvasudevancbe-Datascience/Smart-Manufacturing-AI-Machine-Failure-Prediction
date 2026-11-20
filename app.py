@@ -28,12 +28,12 @@ from sklearn.metrics import (
 # ============================================================
 
 st.set_page_config(
-    page_title="Smart Manufacturing AI",
+    page_title="Smart Machine Monitoring & Failure Prediction",
     page_icon="🏭",
     layout="wide"
 )
 
-st.title("🏭 Smart Manufacturing AI")
+st.title("🏭 Smart Machine Monitoring & Failure Prediction")
 st.caption("Machine Monitoring and Predictive Failure Detection")
 
 
