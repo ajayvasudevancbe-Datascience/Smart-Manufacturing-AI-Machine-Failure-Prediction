@@ -1,4 +1,4 @@
-# Smart Manufacturing AI – Machine Failure Prediction
+# Smart Machine Monitoring Failure Prediction
 
 An end-to-end Machine Learning project that predicts industrial machine failures using sensor data and an XGBoost classification model.
 
